@@ -1,6 +1,6 @@
 Original Author: Travis Lee
 Modified by: Kelvin Medina 
-Last Updated: 06/21/2016
+Last Update: 06/21/2016
 
 Description:
 A collection of open source/common tools/scripts to perform a process memory dump on Windows-based PoS systems and search for unencrypted
